@@ -1,1 +1,9 @@
-p {align-content: center;}
+body{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+#Subtitle{color: darkcyan; background:#ffe3af radial-gradient(#ffe3af, white );}
+header{text-align: center; width: 50%; margin-left: auto; margin-right: auto;}
+#image{text-align: center;}
+#logo{width: 100px;}
+#feature{color: red;}
+a{color: darkcyan;}
+.bold{font-weight: bold;}
+#lastbold{font-weight: bold;}
